@@ -48,6 +48,7 @@ DBNAME=commerce ./scripts/resetdb.sh assets/produtos
 ```
 - A execução desse script criará um banco de dados chamado commerce e importará os dados para a coleção produtos.
 - Execute as queries como desejar.
+- As queries estão nos arquivos desafio{x}.js
 
 # Requisitos
 1. Retorne a quantidade de documentos inseridos na coleção produtos
