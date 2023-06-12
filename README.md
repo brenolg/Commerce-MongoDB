@@ -4,16 +4,16 @@ O projeto tem como objetivo aplicar os conhecimentos adquiridos sobre o MongoDB,
 O projeto consiste em trabalhar com um conjunto de dados do cardápio do McDonald's, incluindo ingredientes, valores nutricionais e dados fictícios de vendas. O objetivo é aplicar os conceitos aprendidos no módulo de MongoDB para realizar operações de alteração nos documentos do banco de dados.
 
 ## Funcionalidades
-O projeto é dividido em três níveis, cada um com suas respectivas funcionalidades:
 
-Nível 1
-Alterar documentos utilizando métodos de update com operadores simples.
-Nível 2
-Alterar documentos utilizando operadores complexos e modificadores.
-Nível 3
-Construir queries e expressões complexas utilizando índices textuais e expressões regulares.
-Tecnologias utilizadas
-As principais tecnologias utilizadas neste projeto são:
+- Pesquisar documentos no banco de dados
+- Especificar os dados retornados do documento
+- Filtrar resultado das pesquisas, usando operadores lógicos e de comparação
+- Limitar, pular, ordenar os documentos retornados, com os métodos
+- Utilizar operadores de consulta em array
+- Fazer atualizações nos documentos utilizando os operadores
+- Renomear campos
+- Incorporar dados aos documentos através de arrays
+# Tecnologias 
 
 * MongoDB
 * DataScience
